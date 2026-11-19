@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
     Diagnóstico de audio Bluetooth en Windows 11 (solo lectura).
 
