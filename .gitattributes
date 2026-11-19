@@ -1,0 +1,10 @@
+# Normaliza finales de linea al clonar/subir
+* text=auto
+
+# Scripts de Windows: CRLF para que funcionen tal cual se descargan
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+
+# Documentacion: LF
+*.md   text eol=lf
+LICENSE text eol=lf
